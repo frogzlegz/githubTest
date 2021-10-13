@@ -1,0 +1,82 @@
+C:\Users\boggl_000\source\repos\SQL Interface Test\SQL Interface Test\bin\Debug\_data\db_local.mdf
+C:\Users\boggl_000\source\repos\SQL Interface Test\SQL Interface Test\bin\Debug\_data\db_local_log.ldf
+C:\Users\boggl_000\source\repos\SQL Interface Test\SQL Interface Test\obj\Debug\MainWindow.g.cs
+C:\Users\boggl_000\source\repos\SQL Interface Test\SQL Interface Test\obj\Debug\App.g.cs
+C:\Users\boggl_000\source\repos\SQL Interface Test\SQL Interface Test\obj\Debug\SQL Interface Test_Content.g.cs
+C:\Users\boggl_000\source\repos\SQL Interface Test\SQL Interface Test\obj\Debug\SQL Interface Test_MarkupCompile.cache
+C:\Users\boggl_000\source\repos\SQL Interface Test\SQL Interface Test\obj\Debug\SQL Interface Test_MarkupCompile.lref
+C:\Users\boggl_000\source\repos\SQL Interface Test\SQL Interface Test\obj\Debug\MainWindow.baml
+C:\Users\boggl_000\source\repos\SQL Interface Test\SQL Interface Test\obj\Debug\SQL Interface Test.g.resources
+C:\Users\boggl_000\source\repos\SQL Interface Test\SQL Interface Test\obj\Debug\SQL_Interface_Test.Properties.Resources.resources
+C:\Users\boggl_000\source\repos\SQL Interface Test\SQL Interface Test\obj\Debug\SQL Interface Test.csproj.GenerateResource.cache
+C:\Users\boggl_000\source\repos\SQL Interface Test\SQL Interface Test\obj\Debug\SQL Interface Test.csproj.CoreCompileInputs.cache
+C:\Users\boggl_000\source\repos\SQL Interface Test\SQL Interface Test\obj\Debug\SQL Interface Test.exe
+C:\Users\boggl_000\source\repos\SQL Interface Test\SQL Interface Test\obj\Debug\SQL Interface Test.pdb
+C:\Users\boggl_000\source\repos\SQL Interface Test\SQL Interface Test\bin\Debug\SQL Interface Test.exe.config
+C:\Users\boggl_000\source\repos\SQL Interface Test\SQL Interface Test\bin\Debug\SQL Interface Test.exe
+C:\Users\boggl_000\source\repos\SQL Interface Test\SQL Interface Test\bin\Debug\SQL Interface Test.pdb
+C:\Users\boggl_000\source\repos\SQL Interface Test\SQL Interface Test\obj\Debug\SQL Interface Test.csprojAssemblyReference.cache
+C:\Users\boggl_000\source\repos\SQL Interface Test\SQL Interface Test\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\boggl_000\source\repos\SQL Interface Test\SQL Interface Test\bin\Debug\Google.Protobuf.dll
+C:\Users\boggl_000\source\repos\SQL Interface Test\SQL Interface Test\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\boggl_000\source\repos\SQL Interface Test\SQL Interface Test\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\boggl_000\source\repos\SQL Interface Test\SQL Interface Test\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\boggl_000\source\repos\SQL Interface Test\SQL Interface Test\bin\Debug\MySql.Data.dll
+C:\Users\boggl_000\source\repos\SQL Interface Test\SQL Interface Test\bin\Debug\System.Buffers.dll
+C:\Users\boggl_000\source\repos\SQL Interface Test\SQL Interface Test\bin\Debug\System.Memory.dll
+C:\Users\boggl_000\source\repos\SQL Interface Test\SQL Interface Test\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\boggl_000\source\repos\SQL Interface Test\SQL Interface Test\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\boggl_000\source\repos\SQL Interface Test\SQL Interface Test\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\boggl_000\source\repos\SQL Interface Test\SQL Interface Test\bin\Debug\Zstandard.Net.dll
+C:\Users\boggl_000\source\repos\SQL Interface Test\SQL Interface Test\bin\Debug\Google.Protobuf.pdb
+C:\Users\boggl_000\source\repos\SQL Interface Test\SQL Interface Test\bin\Debug\Google.Protobuf.xml
+C:\Users\boggl_000\source\repos\SQL Interface Test\SQL Interface Test\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\boggl_000\source\repos\SQL Interface Test\SQL Interface Test\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\boggl_000\source\repos\SQL Interface Test\SQL Interface Test\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\boggl_000\source\repos\SQL Interface Test\SQL Interface Test\bin\Debug\MySql.Data.xml
+C:\Users\boggl_000\source\repos\SQL Interface Test\SQL Interface Test\bin\Debug\System.Buffers.xml
+C:\Users\boggl_000\source\repos\SQL Interface Test\SQL Interface Test\bin\Debug\System.Memory.xml
+C:\Users\boggl_000\source\repos\SQL Interface Test\SQL Interface Test\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\boggl_000\source\repos\SQL Interface Test\SQL Interface Test\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\boggl_000\source\repos\SQL Interface Test\SQL Interface Test\obj\Debug\SQL Interface Test.csproj.CopyComplete
+H:\My Documents\Development\Year_2\VS2019\SQL Interface Test\SQL Interface Test\bin\Debug\_data\db_local.mdf
+H:\My Documents\Development\Year_2\VS2019\SQL Interface Test\SQL Interface Test\bin\Debug\_data\db_local_log.ldf
+H:\My Documents\Development\Year_2\VS2019\SQL Interface Test\SQL Interface Test\bin\Debug\SQL Interface Test.exe.config
+H:\My Documents\Development\Year_2\VS2019\SQL Interface Test\SQL Interface Test\bin\Debug\SQL Interface Test.exe
+H:\My Documents\Development\Year_2\VS2019\SQL Interface Test\SQL Interface Test\bin\Debug\SQL Interface Test.pdb
+H:\My Documents\Development\Year_2\VS2019\SQL Interface Test\SQL Interface Test\bin\Debug\BouncyCastle.Crypto.dll
+H:\My Documents\Development\Year_2\VS2019\SQL Interface Test\SQL Interface Test\bin\Debug\Google.Protobuf.dll
+H:\My Documents\Development\Year_2\VS2019\SQL Interface Test\SQL Interface Test\bin\Debug\K4os.Compression.LZ4.dll
+H:\My Documents\Development\Year_2\VS2019\SQL Interface Test\SQL Interface Test\bin\Debug\K4os.Compression.LZ4.Streams.dll
+H:\My Documents\Development\Year_2\VS2019\SQL Interface Test\SQL Interface Test\bin\Debug\K4os.Hash.xxHash.dll
+H:\My Documents\Development\Year_2\VS2019\SQL Interface Test\SQL Interface Test\bin\Debug\MySql.Data.dll
+H:\My Documents\Development\Year_2\VS2019\SQL Interface Test\SQL Interface Test\bin\Debug\System.Buffers.dll
+H:\My Documents\Development\Year_2\VS2019\SQL Interface Test\SQL Interface Test\bin\Debug\System.Memory.dll
+H:\My Documents\Development\Year_2\VS2019\SQL Interface Test\SQL Interface Test\bin\Debug\System.Numerics.Vectors.dll
+H:\My Documents\Development\Year_2\VS2019\SQL Interface Test\SQL Interface Test\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+H:\My Documents\Development\Year_2\VS2019\SQL Interface Test\SQL Interface Test\bin\Debug\Ubiety.Dns.Core.dll
+H:\My Documents\Development\Year_2\VS2019\SQL Interface Test\SQL Interface Test\bin\Debug\Zstandard.Net.dll
+H:\My Documents\Development\Year_2\VS2019\SQL Interface Test\SQL Interface Test\bin\Debug\Google.Protobuf.pdb
+H:\My Documents\Development\Year_2\VS2019\SQL Interface Test\SQL Interface Test\bin\Debug\Google.Protobuf.xml
+H:\My Documents\Development\Year_2\VS2019\SQL Interface Test\SQL Interface Test\bin\Debug\K4os.Compression.LZ4.xml
+H:\My Documents\Development\Year_2\VS2019\SQL Interface Test\SQL Interface Test\bin\Debug\K4os.Compression.LZ4.Streams.xml
+H:\My Documents\Development\Year_2\VS2019\SQL Interface Test\SQL Interface Test\bin\Debug\K4os.Hash.xxHash.xml
+H:\My Documents\Development\Year_2\VS2019\SQL Interface Test\SQL Interface Test\bin\Debug\MySql.Data.xml
+H:\My Documents\Development\Year_2\VS2019\SQL Interface Test\SQL Interface Test\bin\Debug\System.Buffers.xml
+H:\My Documents\Development\Year_2\VS2019\SQL Interface Test\SQL Interface Test\bin\Debug\System.Memory.xml
+H:\My Documents\Development\Year_2\VS2019\SQL Interface Test\SQL Interface Test\bin\Debug\System.Numerics.Vectors.xml
+H:\My Documents\Development\Year_2\VS2019\SQL Interface Test\SQL Interface Test\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+H:\My Documents\Development\Year_2\VS2019\SQL Interface Test\SQL Interface Test\obj\Debug\SQL Interface Test.csprojAssemblyReference.cache
+H:\My Documents\Development\Year_2\VS2019\SQL Interface Test\SQL Interface Test\obj\Debug\MainWindow.g.cs
+H:\My Documents\Development\Year_2\VS2019\SQL Interface Test\SQL Interface Test\obj\Debug\App.g.cs
+H:\My Documents\Development\Year_2\VS2019\SQL Interface Test\SQL Interface Test\obj\Debug\SQL Interface Test_Content.g.cs
+H:\My Documents\Development\Year_2\VS2019\SQL Interface Test\SQL Interface Test\obj\Debug\SQL Interface Test_MarkupCompile.cache
+H:\My Documents\Development\Year_2\VS2019\SQL Interface Test\SQL Interface Test\obj\Debug\SQL Interface Test_MarkupCompile.lref
+H:\My Documents\Development\Year_2\VS2019\SQL Interface Test\SQL Interface Test\obj\Debug\MainWindow.baml
+H:\My Documents\Development\Year_2\VS2019\SQL Interface Test\SQL Interface Test\obj\Debug\SQL Interface Test.g.resources
+H:\My Documents\Development\Year_2\VS2019\SQL Interface Test\SQL Interface Test\obj\Debug\SQL_Interface_Test.Properties.Resources.resources
+H:\My Documents\Development\Year_2\VS2019\SQL Interface Test\SQL Interface Test\obj\Debug\SQL Interface Test.csproj.GenerateResource.cache
+H:\My Documents\Development\Year_2\VS2019\SQL Interface Test\SQL Interface Test\obj\Debug\SQL Interface Test.csproj.CoreCompileInputs.cache
+H:\My Documents\Development\Year_2\VS2019\SQL Interface Test\SQL Interface Test\obj\Debug\SQL Interface Test.csproj.CopyComplete
+H:\My Documents\Development\Year_2\VS2019\SQL Interface Test\SQL Interface Test\obj\Debug\SQL Interface Test.exe
+H:\My Documents\Development\Year_2\VS2019\SQL Interface Test\SQL Interface Test\obj\Debug\SQL Interface Test.pdb
