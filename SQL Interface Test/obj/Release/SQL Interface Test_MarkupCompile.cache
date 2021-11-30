@@ -4,11 +4,11 @@
 winexe
 C#
 .cs
-C:\Users\abrai\source\repos\frogzlegz\githubTest\SQL Interface Test\obj\Debug\
+C:\Users\abrai\source\repos\frogzlegz\githubTest\SQL Interface Test\obj\Release\
 SQL_Interface_Test
 none
 false
-DEBUG;TRACE
+TRACE
 C:\Users\abrai\source\repos\frogzlegz\githubTest\SQL Interface Test\App.xaml
 1219584333
 2992160118
