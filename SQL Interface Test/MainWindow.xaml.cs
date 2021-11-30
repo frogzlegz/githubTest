@@ -23,6 +23,7 @@ namespace SQL_Interface_Test
     /// <summary>
     /// Interaction logic for MainWindow.xaml
     /// </summary>
+    /// Cock and balls
     public partial class MainWindow : Window
     {
         public static string tableString = "obj2";
