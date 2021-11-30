@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "70993d86-1af5-4667-986d-ce0279b213f3": {
+      "ProjectGuid": "70993d86-1af5-4667-986d-ce0279b213f3",
+      "DisplayName": "SQL Interface Test",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
